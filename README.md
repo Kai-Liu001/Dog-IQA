@@ -33,7 +33,7 @@ PyTorch code for our paper "Dog-IQA: Standard-guided Zero-shot MLLM for Mix-grai
 
 ---
 
-Radar plot in Figure 1 of the main paper
+The radar plot in Figure 1 of the main paper shows that our proposed Dog-IQA outperforms all previous training-free IQA methods in all five datasets in terms of both Spearman Rank Correlation Coefficient (SRCC) and Pearson Linear Correlation Coefficient (PLCC).
 
 <p align="center">
   <img width="400" src="figs/radar-zeroshot.png">
