@@ -6,7 +6,7 @@
 PyTorch code for our paper "Dog-IQA: Standard-guided Zero-shot MLLM for Mix-grained Image Quality Assessment"
 
 
-[Kai Liu](https://kai-liu001.github.io/), [Ziqing Zhang](), [Wenbo Li](https://fenglinglwb.github.io/), [Renjing Pei](), [Fenglong Song](), [Xiaohong Liu](), [Linghe Kong](https://www.cs.sjtu.edu.cn/~linghe.kong/), and [Yulun Zhang](http://yulunzhang.com/)
+[Kai Liu](https://kai-liu001.github.io/), [Ziqing Zhang](), [Wenbo Li](https://fenglinglwb.github.io/), [Renjing Pei](https://orcid.org/0000-0001-7513-6576), [Fenglong Song](https://scholar.google.com/citations?hl=zh-CN&pli=1&user=WYDVk5oAAAAJ), [Xiaohong Liu](https://jhc.sjtu.edu.cn/~xiaohongliu/), [Linghe Kong](https://www.cs.sjtu.edu.cn/~linghe.kong/), and [Yulun Zhang](http://yulunzhang.com/)
 
 "Dog-IQA: Standard-guided Zero-shot MLLM for Mix-grained Image Quality Assessment", arXiv, 2024
 
