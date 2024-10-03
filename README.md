@@ -36,7 +36,7 @@ PyTorch code for our paper "Dog-IQA: Standard-guided Zero-shot MLLM for Mix-grai
 Radar plot in Figure 1 of the main paper
 
 <p align="center">
-  <img width="900" src="figs/radar-zeroshot.png">
+  <img width="400" src="figs/radar-zeroshot.png">
 </p>
 
 ---
