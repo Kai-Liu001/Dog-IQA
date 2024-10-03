@@ -23,10 +23,13 @@ PyTorch code for our paper "Dog-IQA: Standard-guided Zero-shot MLLM for Mix-grai
 
 ---
 
-<img src="figs/pipeline.png" height="216"/>
+<p align="center">
+  <img width="900" src="figs/pipeline.png">
+</p>
 
-
-<img src="figs/human.png" height="216"/>
+<p align="center">
+  <img width="900" src="figs/human.png">
+</p>
 
 ---
 
