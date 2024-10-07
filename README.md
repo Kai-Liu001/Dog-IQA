@@ -10,7 +10,7 @@ PyTorch code for our paper "Dog-IQA: Standard-guided Zero-shot MLLM for Mix-grai
 
 "Dog-IQA: Standard-guided Zero-shot MLLM for Mix-grained Image Quality Assessment", arXiv, 2024
 
-[[arXiv]()] [[supplementary material](https://github.com/Kai-Liu001/Dog-IQA/releases/tag/v1)] [visual results] 
+[[arXiv](https://arxiv.org/abs/2410.02505)] [[supplementary material](https://github.com/Kai-Liu001/Dog-IQA/releases/tag/v1)] [visual results] 
 
 #### 🔥🔥🔥 News
 
